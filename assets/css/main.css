@@ -4087,10 +4087,10 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/bg_1.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/bg_1.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/bg_1.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/bg_1.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg_2.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg_2.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg_2.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg_2.jpg");
 		background-size: cover;
 		/* background-attachment: fixed; */
 		background-position: center;
