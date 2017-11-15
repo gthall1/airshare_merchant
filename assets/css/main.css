@@ -4953,6 +4953,11 @@ input, textarea, select, a { outline: none !important; }
 		padding-right: 0 !important;
 	}
 
+	#newdesktop {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
 	.leftside {
 		margin-left: 50px;
 	}
@@ -4963,6 +4968,11 @@ input, textarea, select, a { outline: none !important; }
 
 	.noleft {
 		width: 75%;
+	}
+
+	.newleft {
+		margin-left: 100px;
+		margin-right: 50px;
 	}
 
 
@@ -4987,6 +4997,11 @@ input, textarea, select, a { outline: none !important; }
 		min-height: 1060px;
 	}
 
+	.putonleft {
+		margin-left: -120px;
+	}
+
+
 
 }
 
@@ -5004,7 +5019,7 @@ input, textarea, select, a { outline: none !important; }
 	}
 
 	.leftside {
-		margin-top: -185px;
+		margin-top: -240px;
 	}
 
 	.putonright {
@@ -5013,6 +5028,24 @@ input, textarea, select, a { outline: none !important; }
 
 	.mainlegal {
 		min-height: 715px;
+	}
+
+	.merch2 {
+		width: 70%;
+	    margin-top: 0px !important;
+	    margin-right: 185px;
+	}
+
+	#newdesktop {
+		padding-top: 8rem !important;
+	}
+
+	.putonleft {
+		margin-left: 0;
+	}
+
+	.newleft {
+		margin-top: 110px;
 	}
 
 
@@ -5103,6 +5136,14 @@ input, textarea, select, a { outline: none !important; }
 
 	.videolink {
 		text-align: center;
+	}
+
+	.putonleft {
+		width: 85%;
+	}
+
+	.centgoth {
+		font-size: 16px;
 	}
 
 }
