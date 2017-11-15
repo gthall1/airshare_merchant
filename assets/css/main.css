@@ -4881,6 +4881,16 @@ input, textarea, select, a { outline: none !important; }
     color: #4A90E2 !important;
 }
 
+.centgoth {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 26px;
+	font-weight: 900;
+}
+
+.centgoththin {
+	font-weight: 400;
+}
+
 
 
 
