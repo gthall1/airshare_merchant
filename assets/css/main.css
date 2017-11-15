@@ -4866,7 +4866,20 @@ input, textarea, select, a { outline: none !important; }
 	border: solid 2px #B2B2B2;
 }
 
+.getstartedbtn {
+    box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.95) !important;
+    color: #ffffff !important;
+}
 
+.getstartedbtn:hover {
+    box-shadow: inset 0 0 0 2px rgba(74, 144, 226, 0.95) !important;
+    color: #4A90E2 !important;
+}
+
+.getstartedbtn:active {
+    box-shadow: inset 0 0 0 2px rgba(74, 144, 226, 0.95) !important;
+    color: #4A90E2 !important;
+}
 
 
 
