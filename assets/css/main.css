@@ -5060,7 +5060,7 @@ input, textarea, select, a { outline: none !important; }
 	}
 
 	.newblock {
-		max-height: 210px;
+		max-height: 155px;
 	}
 
 	.bannerstuff {
@@ -5139,11 +5139,31 @@ input, textarea, select, a { outline: none !important; }
 	}
 
 	.putonleft {
-		width: 85%;
+		width: 100%;
 	}
 
 	.centgoth {
 		font-size: 16px;
+	}
+
+	.merch2 {
+	    width: 70%;
+	    margin-top: 80px !important;
+	    margin-right: 98px;
+	}
+
+	.addcon {
+	    width: 90%;
+	    display: block;
+	    margin: auto;
+	}
+
+	#newdesktop {
+		padding-top: 6rem !important;
+	}
+
+	.newleft {
+		margin-top: 90px !important;
 	}
 
 }
@@ -5151,6 +5171,18 @@ input, textarea, select, a { outline: none !important; }
 @media screen and (max-width: 380px) {
 	.bannerheader {
 		font-size: 36px;
+	}
+
+	.merch2 {
+		margin-right: 87px;
+	}
+
+	.newblock {
+		max-height: 110px;
+	}
+
+	.bumpcontent {
+		margin-top: 130px;
 	}
 
 
@@ -5163,6 +5195,18 @@ input, textarea, select, a { outline: none !important; }
 
 	.leftside {
 		margin-top: -90px;
+	}
+
+	.merch2 {
+		margin-right: 75px;
+	}
+
+	.newblock {
+		max-height: 80px;
+	}
+
+	.newleft {
+		margin-top: 75px !important;
 	}
 
 
