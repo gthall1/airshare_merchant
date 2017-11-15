@@ -4891,6 +4891,25 @@ input, textarea, select, a { outline: none !important; }
 	font-weight: 400;
 }
 
+.rightthistime {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.putonleft {
+	margin-left: 0;
+    margin-right: auto;
+    overflow-x: hidden;
+}
+
+#newdesktop {
+	padding-top: 12rem !important;
+}
+
+.newleft {
+	margin-top: -650px;
+}
+
 
 
 
