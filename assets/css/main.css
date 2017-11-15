@@ -4907,7 +4907,9 @@ input, textarea, select, a { outline: none !important; }
 }
 
 .newleft {
-	margin-top: -650px;
+    margin-top: -650px;
+    margin-left: 50px;
+    margin-right: 75px;
 }
 
 
