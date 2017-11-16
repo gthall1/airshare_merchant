@@ -4912,6 +4912,12 @@ input, textarea, select, a { outline: none !important; }
     margin-right: 75px;
 }
 
+.bizthing {
+	display: block !important;
+    margin: auto !important;
+    margin-bottom: 30px !important;
+}
+
 
 
 
