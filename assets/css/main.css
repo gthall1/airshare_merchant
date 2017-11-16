@@ -4916,6 +4916,7 @@ input, textarea, select, a { outline: none !important; }
 	display: block !important;
     margin: auto !important;
     margin-bottom: 30px !important;
+    border-bottom: none;
 }
 
 
