@@ -1709,7 +1709,7 @@
 		}
 
 			a:hover:before, a:hover strong {
-				color: inherit !important;
+				color: #fff !important;
 			}
 
 	strong, b {
@@ -3233,7 +3233,7 @@
 			}
 
 				#wrapper > .main.accent1 a:hover {
-					color: #3dc5ad !important;
+					color: #ffffff !important;
 				}
 
 			#wrapper > .main.accent1 strong, #wrapper > .main.accent1 b {
@@ -3440,7 +3440,8 @@
 			}
 
 				#wrapper > .main.accent2 a:hover {
-					color: #3dc5ad !important;
+					color: #ffffff !important;
+					cursor: pointer;
 				}
 
 			#wrapper > .main.accent2 strong, #wrapper > .main.accent2 b {
@@ -4919,6 +4920,23 @@ input, textarea, select, a { outline: none !important; }
     border-bottom: none;
 }
 
+.bluetext {
+	color: #4A90E2 !important;
+}
+
+#faqanswer, #faqanswer2, #faqanswer3, #faqanswer4 {
+	display: none;
+}
+
+.faq {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.faq:hover {
+	color: #fff !important;
+}
+
 
 
 
@@ -5055,6 +5073,10 @@ input, textarea, select, a { outline: none !important; }
 		margin-top: 110px;
 	}
 
+	.pullsecondup {
+		margin-top: -28px;
+	}
+
 
 }
 
@@ -5173,6 +5195,10 @@ input, textarea, select, a { outline: none !important; }
 		margin-top: 90px !important;
 	}
 
+	.faq {
+		font-size: 24px;
+	}
+
 }
 
 @media screen and (max-width: 380px) {
@@ -5190,6 +5216,10 @@ input, textarea, select, a { outline: none !important; }
 
 	.bumpcontent {
 		margin-top: 130px;
+	}
+
+	.faq {
+		font-size: 20px;
 	}
 
 
@@ -5214,6 +5244,10 @@ input, textarea, select, a { outline: none !important; }
 
 	.newleft {
 		margin-top: 75px !important;
+	}
+
+	.faq {
+		font-size: 18px;
 	}
 
 
