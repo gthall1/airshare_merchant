@@ -4996,6 +4996,14 @@ input, textarea, select, a { outline: none !important; }
 	padding-left: 30px;
 }
 
+#plus {
+
+}
+
+#minus, #minus2, #minus3, #minus4, #minus5 {
+	display: none;
+}
+
 
 @media screen and (max-width: 1280px) {
 
