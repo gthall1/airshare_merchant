@@ -4942,7 +4942,11 @@ input, textarea, select, a { outline: none !important; }
 }
 
 .fifthq {
-	text-align: center;
+
+}
+
+.faqweirdone {
+    margin-top: -50px;
 }
 
 .lefttableheader {
@@ -4968,11 +4972,6 @@ input, textarea, select, a { outline: none !important; }
 	color: #4A90E2 !important;
 }
 
-
-
-
-
-/* responsive review */
 
 #merchants {
 	padding-left: 0 !important;
@@ -5003,6 +5002,12 @@ input, textarea, select, a { outline: none !important; }
 #minus, #minus2, #minus3, #minus4, #minus5 {
 	display: none;
 }
+
+
+
+
+
+/* responsive review */
 
 
 @media screen and (max-width: 1280px) {
