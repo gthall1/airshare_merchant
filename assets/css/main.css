@@ -3599,7 +3599,7 @@
 			}
 
 				#wrapper > .main.accent2 table tbody tr:nth-child(2n + 1) {
-					background-color: rgba(255, 255, 255, 0.075);
+					background-color: rgba(0, 0, 0, 0.5);
 				}
 
 			#wrapper > .main.accent2 table th {
@@ -4924,7 +4924,7 @@ input, textarea, select, a { outline: none !important; }
 	color: #4A90E2 !important;
 }
 
-#faqanswer, #faqanswer2, #faqanswer3, #faqanswer4 {
+#faqanswer, #faqanswer2, #faqanswer3, #faqanswer4, #faqanswer5 {
 	display: none;
 }
 
@@ -4939,6 +4939,33 @@ input, textarea, select, a { outline: none !important; }
 
 .faqlist {
 	margin-bottom: 40px;
+}
+
+.fifthq {
+	text-align: center;
+}
+
+.lefttableheader {
+	min-width: 200px;
+}
+
+.pricingtable {
+	margin-top: 50px;
+}
+
+.tabledes {
+    text-transform: uppercase;
+    color: #4A90E2 !important;
+    font-size: 20px;
+}
+
+.secondcolumn {
+	min-width: 175px;
+}
+
+.tablesubheader {
+	padding-top: 16px;
+	color: #4A90E2 !important;
 }
 
 
@@ -4959,6 +4986,14 @@ input, textarea, select, a { outline: none !important; }
 .wayleft {
 	padding-left: 0;
 	margin-left: -32px;
+}
+
+.textleft {
+	text-align: left;
+}
+
+.firstbump {
+	padding-left: 30px;
 }
 
 
