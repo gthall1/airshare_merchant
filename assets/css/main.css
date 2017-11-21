@@ -4937,6 +4937,10 @@ input, textarea, select, a { outline: none !important; }
 	color: #fff !important;
 }
 
+.faqlist {
+	margin-bottom: 40px;
+}
+
 
 
 
@@ -5075,6 +5079,10 @@ input, textarea, select, a { outline: none !important; }
 
 	.pullsecondup {
 		margin-top: -28px;
+	}
+
+	.faqlist2 {
+		margin-bottom: 65px;
 	}
 
 
