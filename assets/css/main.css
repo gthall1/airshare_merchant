@@ -5003,6 +5003,10 @@ input, textarea, select, a { outline: none !important; }
 	display: none;
 }
 
+.faqlist2 {
+	/* margin-left: 220px; */
+}
+
 
 
 
