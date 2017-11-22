@@ -4958,8 +4958,7 @@ input, textarea, select, a { outline: none !important; }
 }
 
 .tabledes {
-    text-transform: uppercase;
-    color: #4A90E2 !important;
+    color: #ffffff;
     font-size: 20px;
 }
 
@@ -5137,6 +5136,14 @@ input, textarea, select, a { outline: none !important; }
 		margin-bottom: 65px;
 	}
 
+	#wrapper {
+		overflow-x: hidden;
+	}
+
+	body {
+		padding-top: 0;
+	}
+
 
 }
 
@@ -5259,6 +5266,14 @@ input, textarea, select, a { outline: none !important; }
 		font-size: 24px;
 	}
 
+	.lefttableheader {
+		min-width: 100px;
+	}
+
+	.secondcolumn {
+		min-width: 75px;
+	}
+
 }
 
 @media screen and (max-width: 380px) {
@@ -5280,6 +5295,14 @@ input, textarea, select, a { outline: none !important; }
 
 	.faq {
 		font-size: 20px;
+	}
+
+	.tabledes {
+		font-size: 16px;
+	}
+
+	.lefttableheader, .secondcolumn {
+		min-width: 0;
 	}
 
 
@@ -5308,6 +5331,10 @@ input, textarea, select, a { outline: none !important; }
 
 	.faq {
 		font-size: 18px;
+	}
+
+	.tabledes {
+		font-size: 14px;
 	}
 
 
