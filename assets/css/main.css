@@ -4924,7 +4924,7 @@ input, textarea, select, a { outline: none !important; }
 	color: #4A90E2 !important;
 }
 
-#faqanswer, #faqanswer2, #faqanswer3, #faqanswer4, #faqanswer5 {
+#faqanswer, #faqanswer2, #faqanswer3, #faqanswer4, #faqanswer5, #faqanswer6 {
 	display: none;
 }
 
@@ -4998,7 +4998,7 @@ input, textarea, select, a { outline: none !important; }
 
 }
 
-#minus, #minus2, #minus3, #minus4, #minus5 {
+#minus, #minus2, #minus3, #minus4, #minus5, #minus6 {
 	display: none;
 }
 
