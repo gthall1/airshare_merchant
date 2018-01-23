@@ -5007,6 +5007,23 @@ input, textarea, select, a { outline: none !important; }
 }
 
 
+.newapple {
+	width: 33%;
+}
+
+.newappletwo {
+	width: 40%;
+}
+
+.newbuttonright {
+	margin-right: 10px;
+}
+
+.newbuttonleft {
+	margin-left: 10px;
+}
+
+
 
 
 
@@ -5144,6 +5161,10 @@ input, textarea, select, a { outline: none !important; }
 		padding-top: 0;
 	}
 
+	.newapple {
+		width: 28%;
+	}
+
 
 }
 
@@ -5274,6 +5295,10 @@ input, textarea, select, a { outline: none !important; }
 		min-width: 75px;
 	}
 
+	.newapple {
+		width: 37%;
+	}
+
 }
 
 @media screen and (max-width: 380px) {
@@ -5335,6 +5360,10 @@ input, textarea, select, a { outline: none !important; }
 
 	.tabledes {
 		font-size: 14px;
+	}
+
+	.newapple {
+		width: 42%; 
 	}
 
 
